@@ -9,7 +9,7 @@ A cross-platform mobile application for tracking academic grades and calculating
 - **Grade Calculation**: Automatic grade-to-date and weighted average calculations
 - **What-If Analysis**: Calculate what grade you need on remaining assessments to hit your target
 - **Visual Progress**: View grade progression through interactive charts
-- **Data Persistence**: Saves data locally in JSON format
+- **Data Persistence**: Saves data locally in JSON format 
 
 ## Tech Stack
 
